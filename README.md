@@ -19,6 +19,11 @@ You can install this control in two ways:
 pod 'CircleProgressBar', '~> 0.32’
 ```
 
+**Carthage**
+```ruby
+github "luowei/CircleProgressBar"
+```
+
 2. Manually:
 
   Download source from this repository and copy CircleProgressBarDemo/CircleProgressBar folder to your project.
